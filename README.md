@@ -1,5 +1,6 @@
 # SALES-PERFORMANCE-DASHBOARD
 This project is a dynamic and interactive Sales Performance Dashboard built in Microsoft Excel. It provides actionable insights into sales trends, profits, and customer behavior with easy-to-use filters and visualizations.
+
 🚀 Features:-
 •Order Date Filter → View sales across multiple years (2020–2025).
 •Dynamic Slicers → Filter by Loyalty Status, Payment Method, and Customer Gender.
