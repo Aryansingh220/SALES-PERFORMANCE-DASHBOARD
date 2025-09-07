@@ -1,9 +1,8 @@
-# 📊 SALES PERFORMANCE DASHBOARD    
+# 📊 SALES PERFORMANCE DASHBOARD  
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-blue)  
-
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
@@ -66,10 +65,7 @@ Example:
 ## 👤 Author  
 **Aryan Singh**  
 
-- 🔗 LinkedIn: (www.linkedin.com/in/
-aryansingh7396
-Vanity URL name
-)  
+- 🔗 LinkedIn: [Aryan Singh](https://www.linkedin.com/in/aryansingh7396/)  
 - 💻 GitHub: [Aryansingh220](https://github.com/Aryansingh220)  
 
 ---
