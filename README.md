@@ -66,7 +66,10 @@ Example:
 ## 👤 Author  
 **Aryan Singh**  
 
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
+aryansingh7396
+Vanity URL name
+)  
 - 💻 GitHub: [Aryansingh220](https://github.com/Aryansingh220)  
 
 ---
