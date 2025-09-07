@@ -41,8 +41,7 @@ It provides actionable insights into **sales trends, profits, and customer behav
 ---
 
 ## 📊 Dashboard Preview  
-👉 *(Add screenshots of your dashboard here for better presentation)*  
-
+👉 
 Example:  
 ![Dashboard Screenshot](images/dashboard.png)  
 
